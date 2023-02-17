@@ -1,1 +1,2 @@
-# clubgorilla.github.io
+Welcome to ClubGorilla 2.0
+Development Starting Soon
